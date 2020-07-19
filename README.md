@@ -1,4 +1,10 @@
-### Hi there 👋
+![Image of BugHunterSamBanner](https://bughuntersam.com/wp-content/uploads/2020/07/BugHunterSam.png)
+
+Hi, my name is Sam and I’m a mobile app tester based in Sydney. I enjoy hacking with robotics and brewing beer. You can [check out my blog](https://bughuntersam.com)
+
+I’m currently learning…
+Because…
+Here is that repository…
 
 <!--
 **BugHunterSam/BugHunterSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
